@@ -106,7 +106,6 @@ footer{
 .col{
   justify-content: center;
   display: grid;
-  gri
 }
 /*Mobile phone style */
 @media (max-width: 840px) {
