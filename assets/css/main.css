@@ -6,6 +6,9 @@ body{
   color: #3d4251;
   margin: 0;
 }
+#profile_div{
+  margin-bottom: 15px;
+}
 p{
   word-spacing: normal;
 }
